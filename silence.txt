@@ -1,0 +1,3 @@
+$ git add *.c
+$ git add README
+$ git commit -m 'initialize the version of project'
