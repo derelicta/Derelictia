@@ -1,0 +1,3 @@
+$ git commit -am 'modify hello.php file'
+[master 71ee2cb] modify hello.php file
+1 file changed, 1 insertion(+)
