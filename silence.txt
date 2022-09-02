@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 $ git add *.c
 $ git add README
 $ git commit -m 'initialize the version of project'
+=======
+How Much Shall I Pay You?
+>>>>>>> 559e4866cb861b3ac72b38e723e86b794e046216
